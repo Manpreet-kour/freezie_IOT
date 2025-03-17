@@ -23,7 +23,7 @@ A real-time waste management system that optimizes collection routes based on bi
 
 🔧 Tech Stack
 
-image
+![image](https://github.com/user-attachments/assets/721cfe0e-874b-48ae-bf1b-a54a9dad2fa5)
 
 ⚙ How It Works
 
