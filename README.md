@@ -26,6 +26,8 @@ A real-time waste management system that optimizes collection routes based on bi
 ![image](https://github.com/user-attachments/assets/721cfe0e-874b-48ae-bf1b-a54a9dad2fa5)
 
 ⚙ How It Works
+![1](https://github.com/user-attachments/assets/37fb10e5-c288-4ad8-bb71-3aec6cc8c55e)
+
 
 1️⃣ Smart Waste Bins with IoT Sensors cd
 
